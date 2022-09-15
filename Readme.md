@@ -2,7 +2,7 @@
 
 ## Permasalahan
 - Berlandaskan dari lingkungan sekitar ada anak yang putus sekolah
-- para guru honorer yang gajinya kadang untuk membeli makan pun kurang
+
 ## Rancangan Solusi
 - Membuat aplikasi website ketika mengajar siapapun apapun bisa mendapatkan uang
 - uang yang didapatkan berdasarkan waktu mengajar divalidasi oleh foto sebelum dan sesudah mengajar
