@@ -25,15 +25,15 @@ https://youtu.be/csgX45PxuP8
 ### tutor
 Atribut|Tipe Data|Contoh
 ---|---|---
-ID_tutor|INT|1
-NIK|INT|3200127690****
+UUID|UUID4|1
+NIK|String|3200127690****
 Nama|String|munazir
 E-mail|String|aku@gmaiiil.com
 Pass|String|*******
 desc|Text|seorang mahasiswa uin bdg
-fto_profil|BLOB|*foto propil
-Alamat|String|jl. doang kok
-waktu_ajar|time|00:10:00
+image|String|*foto propil
+city|String|jl. doang kok
+time|String|00:10:00
 
 ### kelas
 Atribut|Tipe Data|Contoh
