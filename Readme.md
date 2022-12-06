@@ -46,12 +46,9 @@ N_pelajaran|String|pelajaran membuat topeng
 peserta|int|5
 id_tutor|INT|1
 obj|String|peserta dapat membuat topeng
-fto_awal|BLOB|*foto mulai mengajar
-waktu_mulai|Timestamp|2022-01-01 00:00:00
-waktu_akhir|Timestamp|2022-01-01 00:10:00
-waktu_ajar|Time|00:10:00
-fto_akhir|BLOB| *foto akhir ajaran
-fto_obj|BLOB|*foto hasil ajaran
+foto|STRING|*foto mulai mengajar
+point|INTEGER|00:10:00
+Bukti|String|*foto, file
 
 ### Admin
 Atribut|Tipe Data|Contoh
