@@ -23,17 +23,20 @@ https://youtu.be/csgX45PxuP8
 ## Struktur Data
 
 ### tutor
-Atribut|Tipe Data|Contoh
----|---|---
-UUID|UUID4|1
-NIK|String|3200127690****
-Nama|String|munazir
-E-mail|String|aku@gmaiiil.com
-Pass|String|*******
-desc|Text|seorang mahasiswa uin bdg
-image|String|*foto propil
-city|String|jl. doang kok
-time|String|00:10:00
+no|Atribut|Tipe Data|Contoh
+---|---|---|---
+1|UUID|UUID4|1
+2|NIK|String|3200127690****
+3|Nama|String|munazir
+4|E-mail|String|aku@gmaiiil.com
+5|Pass|String|*******
+6|desc|Text|seorang mahasiswa uin bdg
+7|image|String|*foto propil
+8|city|String|jl. doang kok
+9|time|String|00:10:00
+10|saldo|int|10.000
+11|role|String|user
+
 
 ### kelas
 Atribut|Tipe Data|Contoh
