@@ -10,7 +10,6 @@ https://youtu.be/csgX45PxuP8
         <tr>
             <th>Bentuk Asesmen</th>
             <th>Bobot Asesmen</th>
-            <th>Bukti</th>
         </tr>
     </thead>
     <tbody>
