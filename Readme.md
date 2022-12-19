@@ -15,9 +15,7 @@ https://youtu.be/csgX45PxuP8
     </thead>
     <tbody>
         <tr>
-          <td>Demo : Git installation</td><td>1</td><td><img scr="https://user-images.githubusercontent.com/78277922/208365920-721c9fd4-a856-4a8a-9c1f-fac7cc47555e.png">
-
-</td>
+          <td>Demo : Git installation</td><td>1</td>
         </tr>
         <tr>
             <td>Demo : Github project initialization</td><td>1</td>
