@@ -15,7 +15,8 @@ https://youtu.be/csgX45PxuP8
     </thead>
     <tbody>
         <tr>
-          <td>Demo : Git installation</td><td>1</td><td>![Screenshot 2022-10-11 211137](https://user-images.githubusercontent.com/78277922/208365760-d7fd6f53-78c8-4b92-af20-87c1af08274b.png)
+          <td>Demo : Git installation</td><td>1</td><td>![Screenshot 2022-12-19 135503](https://user-images.githubusercontent.com/78277922/208365920-721c9fd4-a856-4a8a-9c1f-fac7cc47555e.png)
+
 </td>
         </tr>
         <tr>
