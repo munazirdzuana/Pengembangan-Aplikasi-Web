@@ -10,9 +10,8 @@ Bentuk Asesmen|Hasil Asesmen
 Demo : Git installation|![Screenshot 2022-12-19 135503](https://user-images.githubusercontent.com/78277922/208367919-27732743-a473-40fa-b19d-14fca8cb9d6d.png)
 Demo : Github project initialization|![image](https://user-images.githubusercontent.com/78277922/208375116-8d09b5ce-4fdd-4f62-823f-b100ead88f55.png)
 Demo : Hoppscotch / Postman access|![image](https://user-images.githubusercontent.com/78277922/208375276-df165823-6216-4c2e-951f-cfbe01b9c184.png)
-
 Demo : PHP & Composer installation & hello world|
-Demo : PostgreSQL / MySQL installation|
+Demo : PostgreSQL / MySQL installation|![image](https://user-images.githubusercontent.com/78277922/208567303-16e5e13b-13fa-469f-a92b-b9f0f85d7239.png)
 Demo : DBeaver installation & DB connection|
 Demo : MobaXterm installation & SSH connection|
 Demo : NodeJS & NPM installation, operation & hello world|
@@ -20,3 +19,16 @@ Demo : Linux server operation|
 Demo : Nginx / Apache web server installation & operation|
 Demo : Cpanel operation|
 Demo : Domain registration|
+Demo : HTML Responsive Layout with Media Query & Flexbox|
+Demo : Javascript Data Transformation|
+Demo : Browser API - Event Handling, Local Storage, Element manipulation|
+Demo : HTTP GET & POST using Form Action and Fetch API|
+Demo : PHP DB - Dynamic Web Page|
+Demo : PHP DB - Web Service|
+Demo : OOP-based PHP Project using Composer|
+Demo : Deploy PHP Project to Cpanel|
+Demo : HTML Responsive Layout with Bootstrap|
+Demo : Single Page App with React & React-router|
+Demo : Dynamic Web Page using Laravel|
+Demo : Web Service using Slim|
+Demo : News Site using Wordpress|
