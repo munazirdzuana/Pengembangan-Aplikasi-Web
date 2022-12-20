@@ -14,7 +14,7 @@ Demo : PHP & Composer installation & hello world|
 Demo : PostgreSQL / MySQL installation|![image](https://user-images.githubusercontent.com/78277922/208567303-16e5e13b-13fa-469f-a92b-b9f0f85d7239.png)
 Demo : DBeaver installation & DB connection|
 Demo : MobaXterm installation & SSH connection|
-Demo : NodeJS & NPM installation, operation & hello world|
+Demo : NodeJS & NPM installation, operation & hello world|![image](https://user-images.githubusercontent.com/78277922/208581440-7af0a31a-ac07-4a7c-b060-014f883acdbf.png)
 Demo : Linux server operation|
 Demo : Nginx / Apache web server installation & operation|
 Demo : Cpanel operation|
