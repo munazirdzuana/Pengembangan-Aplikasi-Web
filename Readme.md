@@ -21,7 +21,7 @@ Demo : Cpanel operation|
 Demo : Domain registration|
 Demo : HTML Responsive Layout with Media Query & Flexbox|
 Demo : Javascript Data Transformation|
-Demo : Browser API - Event Handling, Local Storage, Element manipulation|
+Demo : Browser API - Event Handling, Local Storage, Element manipulation|![image](https://user-images.githubusercontent.com/78277922/208582500-51ab2a9b-6201-4347-bd2f-96438c47d48f.png)
 Demo : HTTP GET & POST using Form Action and Fetch API|
 Demo : PHP DB - Dynamic Web Page|
 Demo : PHP DB - Web Service|
