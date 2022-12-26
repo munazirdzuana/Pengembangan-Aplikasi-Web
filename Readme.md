@@ -20,7 +20,7 @@ Demo : Nginx / Apache web server installation & operation|
 Demo : Cpanel operation|
 Demo : Domain registration|
 Demo : HTML Responsive Layout with Media Query & Flexbox|![image](https://user-images.githubusercontent.com/78277922/209477351-6494df82-7cbe-4f96-9abd-5a8999982f8d.png)![image](https://user-images.githubusercontent.com/78277922/209477396-e7928356-b5bc-40de-b3f8-b44a3e3d3b8b.png)
-Demo : Javascript Data Transformation|
+Demo : Javascript Data Transformation|![image](https://user-images.githubusercontent.com/78277922/209492325-f18a2d95-2366-456a-abc3-d627536cd3e6.png) ![image](https://user-images.githubusercontent.com/78277922/209492381-ac359f83-6908-40da-8af6-58fce59b98ee.png)
 Demo : Browser API - Event Handling, Local Storage, Element manipulation|![image](https://user-images.githubusercontent.com/78277922/208582500-51ab2a9b-6201-4347-bd2f-96438c47d48f.png)
 Demo : HTTP GET & POST using Form Action and Fetch API|
 Demo : PHP DB - Dynamic Web Page|
