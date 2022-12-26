@@ -16,7 +16,7 @@ Demo : DBeaver installation & DB connection|![image](https://user-images.githubu
 Demo : MobaXterm installation & SSH connection|![image](https://user-images.githubusercontent.com/78277922/208583561-0152a731-3261-447a-818d-91b14c7f816e.png)
 Demo : NodeJS & NPM installation, operation & hello world|![image](https://user-images.githubusercontent.com/78277922/208581440-7af0a31a-ac07-4a7c-b060-014f883acdbf.png)
 Demo : Linux server operation|
-Demo : Nginx / Apache web server installation & operation|
+Demo : Nginx / Apache web server installation & operation| ![image](https://user-images.githubusercontent.com/78277922/209493402-2aab4fc0-7c90-4c8d-b03e-2c9973fadcde.png) ![image](https://user-images.githubusercontent.com/78277922/209493423-8a5dcf59-f857-4cf8-98c0-fe7b96efbde9.png)
 Demo : Cpanel operation|
 Demo : Domain registration|
 Demo : HTML Responsive Layout with Media Query & Flexbox|![image](https://user-images.githubusercontent.com/78277922/209477351-6494df82-7cbe-4f96-9abd-5a8999982f8d.png)![image](https://user-images.githubusercontent.com/78277922/209477396-e7928356-b5bc-40de-b3f8-b44a3e3d3b8b.png)
