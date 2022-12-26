@@ -12,7 +12,7 @@ Demo : Github project initialization|![image](https://user-images.githubusercont
 Demo : Hoppscotch / Postman access|![image](https://user-images.githubusercontent.com/78277922/208375276-df165823-6216-4c2e-951f-cfbe01b9c184.png)
 Demo : PHP & Composer installation & hello world|![image](https://user-images.githubusercontent.com/78277922/209353169-68c3667c-dc25-412a-bd7f-29f0d30fa837.png)![image](https://user-images.githubusercontent.com/78277922/209352946-0b3b6a1a-da98-49ac-a43c-e6490409f205.png)
 Demo : PostgreSQL / MySQL installation|![image](https://user-images.githubusercontent.com/78277922/208567303-16e5e13b-13fa-469f-a92b-b9f0f85d7239.png)
-Demo : DBeaver installation & DB connection|![image](https://user-images.githubusercontent.com/78277922/209459534-94ac30cb-2b42-42ca-ad5a-9b963f988b8f.png)![image](https://user-images.githubusercontent.com/78277922/209459636-9c4ffbfd-e961-477c-a877-518b1d52bbb6.png)
+Demo : DBeaver installation & DB connection|![image](https://user-images.githubusercontent.com/78277922/209459534-94ac30cb-2b42-42ca-ad5a-9b963f988b8f.png) ![image](https://user-images.githubusercontent.com/78277922/209494538-7668f5b5-0c6a-4615-a469-9428ed91200d.png)
 Demo : MobaXterm installation & SSH connection|![image](https://user-images.githubusercontent.com/78277922/208583561-0152a731-3261-447a-818d-91b14c7f816e.png)
 Demo : NodeJS & NPM installation, operation & hello world|![image](https://user-images.githubusercontent.com/78277922/208581440-7af0a31a-ac07-4a7c-b060-014f883acdbf.png)
 Demo : Linux server operation|
