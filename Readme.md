@@ -22,9 +22,9 @@ Demo : Domain registration| ![image](https://user-images.githubusercontent.com/7
 Demo : HTML Responsive Layout with Media Query & Flexbox|![image](https://user-images.githubusercontent.com/78277922/209477351-6494df82-7cbe-4f96-9abd-5a8999982f8d.png)![image](https://user-images.githubusercontent.com/78277922/209477396-e7928356-b5bc-40de-b3f8-b44a3e3d3b8b.png)
 Demo : Javascript Data Transformation|![image](https://user-images.githubusercontent.com/78277922/209492325-f18a2d95-2366-456a-abc3-d627536cd3e6.png) ![image](https://user-images.githubusercontent.com/78277922/209492381-ac359f83-6908-40da-8af6-58fce59b98ee.png)
 Demo : Browser API - Event Handling, Local Storage, Element manipulation|![image](https://user-images.githubusercontent.com/78277922/208582500-51ab2a9b-6201-4347-bd2f-96438c47d48f.png)
-Demo : HTTP GET & POST using Form Action and Fetch API|
-Demo : PHP DB - Dynamic Web Page|
-Demo : PHP DB - Web Service|
+Demo : HTTP GET & POST using Form Action and Fetch API|![image](https://user-images.githubusercontent.com/78277922/210530155-3d883e0a-44c4-4757-9f0c-e0b4550dba43.png) ![image](https://user-images.githubusercontent.com/78277922/210530031-5121f2a8-e015-44dc-ab3e-66faeabc2b09.png)
+Demo : Dynamic Web Page|
+Demo : Web Service|![image](https://user-images.githubusercontent.com/78277922/210532535-20272a17-bfad-416b-b6b0-3d16d40a6f77.png)
 Demo : OOP-based PHP Project using Composer|
 Demo : Deploy PHP Project to Cpanel|
 Demo : HTML Responsive Layout with Bootstrap|![image](https://user-images.githubusercontent.com/78277922/209476360-7fb0d2b4-0f2e-45a6-b316-307ae49f1378.png) ![image](https://user-images.githubusercontent.com/78277922/209476384-d926db13-1334-4be6-a3fa-c3646ebad02d.png) ![image](https://user-images.githubusercontent.com/78277922/209476416-03bf488d-c716-48f0-bc77-00466f69bd3d.png)
