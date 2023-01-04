@@ -17,7 +17,7 @@ Demo : MobaXterm installation & SSH connection|![image](https://user-images.gith
 Demo : NodeJS & NPM installation, operation & hello world|![image](https://user-images.githubusercontent.com/78277922/208581440-7af0a31a-ac07-4a7c-b060-014f883acdbf.png)
 Demo : Linux server operation|
 Demo : Nginx / Apache web server installation & operation| ![image](https://user-images.githubusercontent.com/78277922/209493402-2aab4fc0-7c90-4c8d-b03e-2c9973fadcde.png) ![image](https://user-images.githubusercontent.com/78277922/209493423-8a5dcf59-f857-4cf8-98c0-fe7b96efbde9.png)
-Demo : Cpanel operation|
+Demo : Cpanel operation| ![image](https://user-images.githubusercontent.com/78277922/210527382-587e40c7-125c-4ddb-9101-463c535b3603.png)
 Demo : Domain registration| ![image](https://user-images.githubusercontent.com/78277922/209604911-fa1072e4-0be7-439c-970e-23c426db795d.png)
 Demo : HTML Responsive Layout with Media Query & Flexbox|![image](https://user-images.githubusercontent.com/78277922/209477351-6494df82-7cbe-4f96-9abd-5a8999982f8d.png)![image](https://user-images.githubusercontent.com/78277922/209477396-e7928356-b5bc-40de-b3f8-b44a3e3d3b8b.png)
 Demo : Javascript Data Transformation|![image](https://user-images.githubusercontent.com/78277922/209492325-f18a2d95-2366-456a-abc3-d627536cd3e6.png) ![image](https://user-images.githubusercontent.com/78277922/209492381-ac359f83-6908-40da-8af6-58fce59b98ee.png)
