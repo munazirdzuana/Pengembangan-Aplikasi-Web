@@ -23,7 +23,7 @@ Demo : HTML Responsive Layout with Media Query & Flexbox|![image](https://user-i
 Demo : Javascript Data Transformation|![image](https://user-images.githubusercontent.com/78277922/209492325-f18a2d95-2366-456a-abc3-d627536cd3e6.png) ![image](https://user-images.githubusercontent.com/78277922/209492381-ac359f83-6908-40da-8af6-58fce59b98ee.png)
 Demo : Browser API - Event Handling, Local Storage, Element manipulation|![image](https://user-images.githubusercontent.com/78277922/208582500-51ab2a9b-6201-4347-bd2f-96438c47d48f.png)
 Demo : HTTP GET & POST using Form Action and Fetch API|![image](https://user-images.githubusercontent.com/78277922/210530155-3d883e0a-44c4-4757-9f0c-e0b4550dba43.png) ![image](https://user-images.githubusercontent.com/78277922/210530031-5121f2a8-e015-44dc-ab3e-66faeabc2b09.png)
-Demo : Dynamic Web Page|
+Demo : Dynamic Web Page|![image](https://user-images.githubusercontent.com/78277922/210725014-4b6cc598-73c5-44dd-b942-192ce7c54e5e.png)
 Demo : Web Service|![image](https://user-images.githubusercontent.com/78277922/210532535-20272a17-bfad-416b-b6b0-3d16d40a6f77.png)
 Demo : OOP-based PHP Project using Composer|
 Demo : Deploy PHP Project to Cpanel|
